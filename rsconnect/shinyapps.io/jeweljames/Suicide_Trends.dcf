@@ -1,0 +1,12 @@
+name: Suicide_Trends
+title: Suicide_Trends
+username:
+account: anoojamathew
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1388100
+bundleId: 2543158
+url: https://anoojamathew.shinyapps.io/Suicide_Trends/
+when: 1572161961.01218
+asMultiple: FALSE
+asStatic: FALSE
